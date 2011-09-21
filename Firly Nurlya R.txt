@@ -5,4 +5,8 @@ Firly Nurlya R
 4510210032
 
 Universitas Pancasila
+<<<<<<< HEAD
 Jakarta
+=======
+Jkt
+>>>>>>> bugfix
